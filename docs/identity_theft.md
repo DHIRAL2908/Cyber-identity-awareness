@@ -13,7 +13,7 @@ The use of an account without the permission of knowledge of the owner is consid
 - Enable security features such as 2FA or 3FA (biometrics).
 - Regular checks on profile information and login locations.
 - Do not click arbitary URLs or links from unknown origins.
-- Checks for database breaches using https://haveibeenpwned.com/ or similar websites on routine bases.
+- Checks for database breaches using HaveIBeenPwned or similar tools on routine bases.
 - Complex password policy and use of different usernames and emails.
 
 ## Mitigation:
@@ -27,5 +27,6 @@ The use of an account without the permission of knowledge of the owner is consid
 #### [`USA government website`](https://www.usa.gov/identity-theft)
 #### [`FTC guidelines and portal`](https://www.identitytheft.gov/)
 #### [`Wikipedia article`](https://en.wikipedia.org/wiki/Identity_theft)
+#### [Have I been pwned](https://haveibeenpwned.com/)
 
 ### [← Back](index.md)
