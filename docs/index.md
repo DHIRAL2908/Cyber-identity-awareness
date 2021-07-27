@@ -5,6 +5,7 @@ This website is made to to explain, minimize, take steps against and ensure prev
 Here are the checklist and cyber attacks index. Click on any of them, that you might be suspicous of or want to know more about, to proceed further. 
 
 ### [→ Security Checklist](security_checklist.md)
+### [→ Identity Theft/Impersonation](identity_theft.md)
 
 ### Made by:
 `191310132017` – Meet ved
