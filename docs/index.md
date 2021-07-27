@@ -4,7 +4,7 @@ This website is made to to explain, minimize, take steps against and ensure prev
 ### Introduction:
 Here are the checklist and cyber attacks index. Click on any of them, that you might be suspicous of or want to know more about, to proceed further. 
 
-### [-> Security Checklist](security_checklist.md)
+### [→ Security Checklist](security_checklist.md)
 
 ### Made by:
 `191310132017` – Meet ved
