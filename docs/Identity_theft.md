@@ -27,3 +27,5 @@ The use of an account without the permission of knowledge of the owner is consid
 #### [`USA government website`](https://www.usa.gov/identity-theft)
 #### [`FTC guidelines and portal`](https://www.identitytheft.gov/)
 #### [`Wikipedia article`](https://en.wikipedia.org/wiki/Identity_theft)
+
+### [← Back](index.md)
