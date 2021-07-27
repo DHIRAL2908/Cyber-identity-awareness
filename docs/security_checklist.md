@@ -31,7 +31,7 @@ These are some suspicious activities which can point to a cyber attack or starti
 ## Intranet devices:
 ### Devices located in independent subnets. (Databases, backups, storage, etc.)
 - Unusual traffic from device connected to the internet and the local subnet both.
-- Malicious applications like chise.exe, port-tunnel.exe, nc.exe, msfvenom payloads, etc. which can be detected with hash-checking or antivirus softwares.
+- Malicious applications like `chisel.exe, port-tunnel.exe, nc.exe, msfvenom payloads, etc.` which can be detected with hash-checking or antivirus softwares.
 - Larger data read/write than routine.
 - Weird connection issues. Especially originating from unknown subnets.
 - Sudden errors in workflow or automation builds with usual queries/targets.
