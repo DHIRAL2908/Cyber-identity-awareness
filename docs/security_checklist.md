@@ -35,3 +35,6 @@ These are some suspicious activities which can point to a cyber attack or starti
 - Larger data read/write than routine.
 - Weird connection issues. Especially originating from unknown subnets.
 - Sudden errors in workflow or automation builds with usual queries/targets.
+
+
+### [<-Back](index.md)
