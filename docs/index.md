@@ -8,6 +8,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Identity Theft/Impersonation](identity_theft.md)
 ### [→ Malware/virus Infection](malware_infection.md)
 ### [→ Database leaks, breaches and theft](database_leak.md)
+### [→ Malicious documents and everyday-used files](malicious_documents.md)
 
 ### Made by:
 `191310132017` – Meet ved
