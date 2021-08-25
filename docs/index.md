@@ -9,6 +9,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Malware/virus Infection](malware_infection.md)
 ### [→ Database leaks, breaches and theft](database_leak.md)
 ### [→ Malicious documents and everyday-used files](malicious_documents.md)
+### [→ Social engineering attacks](social_engineering.md)
 
 ### Made by:
 `191310132017` – Meet ved
