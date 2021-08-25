@@ -18,3 +18,16 @@ The most common target for social engineering and easy command execution for att
 - VBA and Macro should be disabled in all of the Microsoft Office products in case they were enabled.
 
 ## Mitigation:
+- A full system security scan should be done in case a malicious document is opened.
+- The file in case or URL should be reported to antivirus providers in order to protect others.
+- Reseting or reinstalling the infected application such as Microsoft office or internet browser can help.
+- The whole operating system might require a full reset to remove any persistance tools.
+- In case of a malicious email from anyone, it should be reported to the email provider.
+
+## Useful links:
+#### [`VirusTotal`](https://www.virustotal.com/gui/)
+#### [`Any.Run sandbox tool`](https://any.run/)
+#### [`Gmail reporting support`](https://support.google.com/mail/answer/8253?hl=en)
+#### [`Sophos article on Macro attacks`](https://home.sophos.com/en-us/security-news/2019/macro-viruses.aspx)
+
+### [← Back](index.md)
