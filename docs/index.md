@@ -10,6 +10,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Database leaks, breaches and theft](database_leak.md)
 ### [→ Malicious documents and everyday-used files](malicious_documents.md)
 ### [→ Social engineering attacks](social_engineering.md)
+### [→ Escalation of privileges and lateral movement](privilege_escalation.md)
 
 ### Made by:
 `191310132017` – Meet ved
