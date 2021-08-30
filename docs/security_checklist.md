@@ -27,6 +27,7 @@ These are some suspicious activities which can point to a cyber attack or starti
 - Admin or superuser logins without prior notice.
 - Requests with similar contents from the same origin.
 - Unrecognizable, special or unprintable characters in user-input oriented places.
+- Rate-limiting and restrictions on upload features.
 
 ## Intranet devices:
 ### Devices located in independent subnets. (Databases, backups, storage, etc.)

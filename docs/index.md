@@ -11,6 +11,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Malicious documents and everyday-used files](malicious_documents.md)
 ### [→ Social engineering attacks](social_engineering.md)
 ### [→ Escalation of privileges and lateral movement](privilege_escalation.md)
+### [→ Denial of service(DOS/DDOS) attacks](denial_of_service.md)
 
 ### Made by:
 `191310132017` – Meet ved

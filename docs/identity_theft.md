@@ -6,7 +6,7 @@ The use of an account without the permission of knowledge of the owner is consid
 - Unknown activity and usage of the account.
 - Messages with harmful URLs or OTPs.
 - Changed password/locked out account.
-- Logins from unusual location.
+- Logins from unusual locations and IPs.
 - Modifications in profile details without prior knowledge.
 
 
@@ -27,7 +27,7 @@ The use of an account without the permission of knowledge of the owner is consid
 
 
 ## Useful links:
-#### [`Indian cybercrime portal`](https://cybercrime.gov.in/)
+#### [`indian cybercrime portal`](https://cybercrime.gov.in/)
 #### [`USA government website`](https://www.usa.gov/identity-theft)
 #### [`FTC guidelines and portal`](https://www.identitytheft.gov/)
 #### [`Wikipedia article`](https://en.wikipedia.org/wiki/Identity_theft)
