@@ -13,6 +13,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Escalation of privileges and lateral movement](privilege_escalation.md)
 ### [→ Denial of service(DOS/DDOS) attacks](denial_of_service.md)
 ### [→ Securing web browsers](browser_security.md)
+### [→ Wireless and network related security](wireless_security.md)
 
 ### Made by:
 `191310132017` – Meet ved
