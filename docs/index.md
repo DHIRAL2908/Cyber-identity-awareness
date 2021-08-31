@@ -12,6 +12,9 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Social engineering attacks](social_engineering.md)
 ### [→ Escalation of privileges and lateral movement](privilege_escalation.md)
 ### [→ Denial of service(DOS/DDOS) attacks](denial_of_service.md)
+### [→ Securing web browsers](browser_security.md)
+
+
 
 ### Made by:
 `191310132017` – Meet ved
