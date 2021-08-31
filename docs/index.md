@@ -4,7 +4,7 @@ This website is made to to explain, minimize, take steps against and ensure prev
 ### Introduction:
 Here are the checklist and cyber attacks index. Click on any of them, that you might be suspicous of or want to know more about, to proceed further. 
 
-### [→ Security Checklist](security_checklist.md)
+### [→ Security Checklist](security_checklist.md)               ### [→ Securing web browsers](browser_security.md)
 ### [→ Identity Theft/Impersonation](identity_theft.md)
 ### [→ Malware/virus Infection](malware_infection.md)
 ### [→ Database leaks, breaches and theft](database_leak.md)
@@ -13,8 +13,6 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Escalation of privileges and lateral movement](privilege_escalation.md)
 ### [→ Denial of service(DOS/DDOS) attacks](denial_of_service.md)
 ### [→ Securing web browsers](browser_security.md)
-
-
 
 ### Made by:
 `191310132017` – Meet ved
