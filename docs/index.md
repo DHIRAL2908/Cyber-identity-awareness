@@ -14,7 +14,7 @@ Here are the checklist and cyber attacks index. Click on any of them, that you m
 ### [→ Denial of service(DOS/DDOS) attacks](denial_of_service.md)
 ### [→ Securing web browsers](browser_security.md)
 ### [→ Wireless and network related security](wireless_security.md)
-### [→ Cross site scripting/XSS attacks](Cross-site_scripting.md)
+### [→ Cross site scripting/XSS attacks](cross-site_scripting.md)
 
 
 ### Made by:
