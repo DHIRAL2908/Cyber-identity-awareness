@@ -24,6 +24,8 @@ If an attacker can execute or manipulate any javascript code leading to compromi
 
 ## Useful links:
 #### [`NoScript extension`](https://noscript.net/)
+#### [`HTTPS Everywhere extension`](https://www.eff.org/https-everywhere)
+#### [`UblockOrigin extension`](https://ublockorigin.com/)
 #### [`Cloudflare web proxy`](https://www.cloudflare.com/)
 #### [`OWASP article on XSS`](https://owasp.org/www-community/attacks/xss/)
 
